@@ -37,6 +37,8 @@ mcp dev server.py
 
 ## Gemini CLI Configuration
 
+<img width="936" height="227" alt="image" src="https://github.com/user-attachments/assets/564378be-056e-4303-baa8-7465974bc6e3" />
+
 ### Gemini CLI
 
 Edit `~/.gemini/settings.json`:
